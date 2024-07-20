@@ -453,7 +453,6 @@ button:hover{
     margin-left: 22%;
 }
 
-
 @media screen and (max-width: 1000px) {
     .title{
         text-align: center;
@@ -503,7 +502,6 @@ button:hover{
         margin-left: 15%;
     }
 }
-
 
 @media screen and (max-width: 620px) {
     #animate{
