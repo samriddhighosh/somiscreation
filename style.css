@@ -453,6 +453,58 @@ button:hover{
     margin-left: 22%;
 }
 
+
+@media screen and (max-width: 1000px) {
+    .title{
+        text-align: center;
+        float: none;
+        width: 80%;
+        justify-self: center;
+    }
+    .tagcloud{
+        float: none;
+        margin-left: 5%;
+    }
+    #right{
+        float: none;
+    }
+    #left{
+        float: none;
+        padding-left: 0%;
+    }
+    .about_content{
+        width: 90%;
+    }
+    .description_img{
+        width: 22em;
+        height: 20em;
+    }
+    .about_me{
+        margin-left: 20%;
+    }
+    .mailing{
+        padding-right: 2%;
+        padding-left: 2%;
+    }
+    .mail-img{
+        width: 150%
+    }
+    .mail-heading{
+        font-size: 2em;
+        padding-left: 15%;
+    }
+    .mail{
+        font-size: 1.1em;
+        width: 70%;
+        padding-left: 15%;
+    }
+    .mailing button{
+        width: 80%;
+        margin-left: 15%;
+    }
+}
+
+
 @media screen and (max-width: 620px) {
     #animate{
         padding-left: 15%;
